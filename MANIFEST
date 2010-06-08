@@ -1,0 +1,22 @@
+examples/fp.pl
+t/gen_match_stats.t
+Changes
+README
+Makefile.PL
+MANIFEST
+db/cache-control.fdb
+db/keep-alive.fdb
+db/ua-cpu.fdb
+db/header-order.fdb
+db/ua-os.fdb
+db/connection.fdb
+db/accept-charset.fdb
+db/te.fdb
+db/user-agent.fdb
+db/accept-encoding.fdb
+db/ua-color.fdb
+db/accept-language.fdb
+db/ua-pixels.fdb
+db/accept.fdb
+lib/Browser/FingerPrint.pm
+META.yml                                 Module meta-data (added by MakeMaker)
